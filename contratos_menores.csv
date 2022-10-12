@@ -1,0 +1,21 @@
+,Objeto del contrato,Tipon de contrato,nombre_ss,importe_sin_iva,importe_con_iva,Duración del contrato
+0,Suministro de alimentación ,Suministro,ESPECIALIDADES ALIMENTARIAS Y COMER,"170,58","187,64",3.0 Meses
+1,Material de menaje,Suministro,COMERCIAL ESPAÑOLA EQUIPAMIENTOS E INS,"111,98","135,5",3.0 Meses
+2,Material de electricidad,Suministro,"COVAMA ELECTRICA , S.L.","339,55","410,86",7.0 Días
+3,Material de electricidad,Suministro,RECA HISPANIA S.A.U,235,"284,35",7.0 Días
+4,Material de ferreteria,Suministro,"BAULOFER, ASISTENCIA TÉCNICA, S.L.","313,63","379,49",7.0 Días
+5,Material de ferreteria,Suministro,CESAR BLANCO,"1.778,75","2.152,29",7.0 Días
+6,Material de menaje,Suministro,COMERCIAL ESPAÑOLA EQUIPAMIENTOS E INS,"122,66","148,42",3.0 Meses
+7,Material de electricidad,Suministro,RECA HISPANIA S.A.U,"324,45","392,58",7.0 Días
+8,Material de electricidad,Suministro,"JOFEG, S.A.","110,15","133,28",7.0 Días
+9,Material de limpieza,Suministro,CESAR BLANCO MEJIAS,"132,08","159,81",2.0 Meses
+10,Material sanitario,Suministro,"DISTRAUMA MEDICAL, S.L.",400,484,2.0 Meses
+11,Material de limpieza,Suministro,"LAT,HIDRAULICOS Y TORNOS JEMAC, S.L.",197,"238,37",7.0 Días
+12,Motor cabecero cama Eleganza STD LUXE,Suministro,"LINET IBERIA, S.L.","251,41","304,21",2.0 Meses
+13,Material de electricidad,Suministro,ARTÍCULOS ELÉCTRICOS S.L.,"297,04","359,42",7.0 Días
+14,Material de informática,Suministro,"SOPORTE TECNICO INTEGRAL TARJETAS, S.L.","110,6","133,83",7.0 Días
+15,Material de menaje,Suministro,COMERCIAL ESPAÑOLA EQUIPAMIENTOS E,"744,32","900,62",2.0 Meses
+16,Material de electricidad,Suministro,ARTÍCULOS ELÉCTRICOS S.L.,"276,68","334,78",7.0 Días
+17,Material de pintura,Suministro,LA CASILLA DEL CONDADO SL,"239,17","289,4",7.0 Días
+18,Material de ferreteria,Suministro,DAVID MAQUEDA,"138,87","168,03",7.0 Días
+19,Material de electricidad,Suministro,ARTÍCULOS ELÉCTRICOS S.L.,"1.084,95","1.312,79",7.0 Días
